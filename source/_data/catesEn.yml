@@ -1,0 +1,7 @@
+- text: All
+  value: All 
+  url: index.html
+- text: Weekly
+  value: weekly
+  url: cates/weekly/index.html
+
